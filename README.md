@@ -11,4 +11,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sajalseth17/Leetcode/tree/master/0031-next-permutation) |
+| [0443-string-compression](https://github.com/sajalseth17/Leetcode/tree/master/0443-string-compression) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/sajalseth17/Leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
