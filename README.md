@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sajalseth17/Leetcode/tree/master/0031-next-permutation) |
+| [0074-search-a-2d-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/sajalseth17/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -48,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
