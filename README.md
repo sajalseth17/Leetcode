@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/sajalseth17/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sajalseth17/Leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/sajalseth17/Leetcode/tree/master/0204-count-primes) |
 | [1448-maximum-69-number](https://github.com/sajalseth17/Leetcode/tree/master/1448-maximum-69-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -63,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sajalseth17/Leetcode/tree/master/0001-two-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
