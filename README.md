@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sajalseth17/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sajalseth17/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sajalseth17/Leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/sajalseth17/Leetcode/tree/master/0204-count-primes) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sajalseth17/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/sajalseth17/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sajalseth17/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sajalseth17/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sajalseth17/Leetcode/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sajalseth17/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
