@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sajalseth17/Leetcode/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/sajalseth17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sajalseth17/Leetcode/tree/master/0443-string-compression) |
+| [2481-strictly-palindromic-number](https://github.com/sajalseth17/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sajalseth17/Leetcode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/sajalseth17/Leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/sajalseth17/Leetcode/tree/master/1448-maximum-69-number) |
+| [2481-strictly-palindromic-number](https://github.com/sajalseth17/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sajalseth17/Leetcode/tree/master/0002-add-two-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/sajalseth17/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
