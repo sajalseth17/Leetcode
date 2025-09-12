@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sajalseth17/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sajalseth17/Leetcode/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sajalseth17/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sajalseth17/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sajalseth17/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/sajalseth17/Leetcode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sajalseth17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sajalseth17/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sajalseth17/Leetcode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/sajalseth17/Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
