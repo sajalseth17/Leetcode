@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1942-primary-department-for-each-employee](https://github.com/sajalseth17/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
