@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sajalseth17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1942-primary-department-for-each-employee](https://github.com/sajalseth17/Leetcode/tree/master/1942-primary-department-for-each-employee) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
