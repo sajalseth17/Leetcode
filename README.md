@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sajalseth17/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sajalseth17/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sajalseth17/Leetcode/tree/master/0031-next-permutation) |
+| [0165-compare-version-numbers](https://github.com/sajalseth17/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/sajalseth17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sajalseth17/Leetcode/tree/master/0443-string-compression) |
 | [2481-strictly-palindromic-number](https://github.com/sajalseth17/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/sajalseth17/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/sajalseth17/Leetcode/tree/master/0443-string-compression) |
 ## Math
 |  |
