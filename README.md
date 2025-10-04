@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sajalseth17/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sajalseth17/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0407-trapping-rain-water-ii](https://github.com/sajalseth17/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sajalseth17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sajalseth17/Leetcode/tree/master/0792-binary-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/sajalseth17/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sajalseth17/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/sajalseth17/Leetcode/tree/master/3827-implement-router) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/sajalseth17/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
