@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sajalseth17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sajalseth17/Leetcode/tree/master/0792-binary-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/sajalseth17/Leetcode/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sajalseth17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sajalseth17/Leetcode/tree/master/0443-string-compression) |
 | [2481-strictly-palindromic-number](https://github.com/sajalseth17/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sajalseth17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/sajalseth17/Leetcode/tree/master/0792-binary-search) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/sajalseth17/Leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/sajalseth17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/sajalseth17/Leetcode/tree/master/3827-implement-router) |
 ## Bit Manipulation
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sajalseth17/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sajalseth17/Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sajalseth17/Leetcode/tree/master/1013-fibonacci-number) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Database
 |  |
 | ------- |
