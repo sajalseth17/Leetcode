@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sajalseth17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sajalseth17/Leetcode/tree/master/0792-binary-search) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sajalseth17/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sajalseth17/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sajalseth17/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/sajalseth17/Leetcode/tree/master/0443-string-compression) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sajalseth17/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sajalseth17/Leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/sajalseth17/Leetcode/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sajalseth17/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/sajalseth17/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/sajalseth17/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sajalseth17/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
