@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sajalseth17/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sajalseth17/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sajalseth17/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/sajalseth17/Leetcode/tree/master/3827-implement-router) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0054-spiral-matrix) |
 | [3336-water-bottles-ii](https://github.com/sajalseth17/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sajalseth17/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sajalseth17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sajalseth17/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sajalseth17/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sajalseth17/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Dynamic Programming
