@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sajalseth17/Leetcode/tree/master/0792-binary-search) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sajalseth17/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sajalseth17/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sajalseth17/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -107,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sajalseth17/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sajalseth17/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0054-spiral-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/sajalseth17/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/sajalseth17/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sajalseth17/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
