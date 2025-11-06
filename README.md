@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sajalseth17/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3827-implement-router](https://github.com/sajalseth17/Leetcode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sajalseth17/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sajalseth17/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/sajalseth17/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/sajalseth17/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sajalseth17/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/sajalseth17/Leetcode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/sajalseth17/Leetcode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sajalseth17/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -234,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sajalseth17/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sajalseth17/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sajalseth17/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
