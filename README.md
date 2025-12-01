@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sajalseth17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/sajalseth17/Leetcode/tree/master/0792-binary-search) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sajalseth17/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/sajalseth17/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sajalseth17/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sajalseth17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sajalseth17/Leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/sajalseth17/Leetcode/tree/master/1448-maximum-69-number) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/sajalseth17/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sajalseth17/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sajalseth17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/sajalseth17/Leetcode/tree/master/0792-binary-search) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/sajalseth17/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sajalseth17/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sajalseth17/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sajalseth17/Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/sajalseth17/Leetcode/tree/master/0169-majority-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sajalseth17/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/sajalseth17/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sajalseth17/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sajalseth17/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sajalseth17/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
