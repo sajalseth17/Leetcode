@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sajalseth17/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/sajalseth17/Leetcode/tree/master/0443-string-compression) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sajalseth17/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2211-count-collisions-on-a-road](https://github.com/sajalseth17/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sajalseth17/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Math
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sajalseth17/Leetcode/tree/master/0054-spiral-matrix) |
+| [2211-count-collisions-on-a-road](https://github.com/sajalseth17/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sajalseth17/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/sajalseth17/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sajalseth17/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/sajalseth17/Leetcode/tree/master/3863-power-grid-maintenance) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/sajalseth17/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
